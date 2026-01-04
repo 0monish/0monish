@@ -8,11 +8,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer building mod
 - **Runtime**: Bun (instead of Node.js)
 - **Development**: TypeScript for type-safe code
 
-## 📊 GitHub Stats
-
-- **GitHub Commits**: Check my repositories for commit history
-- **Activity**: Actively contributing to open-source and personal projects
-
 ## 🔗 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/1monishkhandelwal](https://linkedin.com/in/1monishkhandelwal)
@@ -29,7 +24,7 @@ I'm a developer who loves building interactive and performant web experiences. I
 - Optimizing performance with modern tooling like Bun
 
 ## 📅 Last Updated
-**2026-01-04 17:49:23 UTC**
+**2026-01-04**
 
 ---
 
